@@ -1,0 +1,21 @@
+Accounts
+
+username: admin1
+password: "Ad123456
+role: admin
+can access: Jsonplaceholder , curd Todo
+
+username: admin2
+password: "Ad123456
+role: Moderator
+can access: Admin , curd Todo
+
+username: admin3
+password: "Ad123456
+role: Member
+can access: curd Todo
+
+username: admin4
+password: "Ad123456
+role: Member , Moderator , admin
+can access: curd Todo ,Jsonplaceholder ,Admin 
